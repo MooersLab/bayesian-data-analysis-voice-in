@@ -1,0 +1,8 @@
+expand pcc,Probabilistic Cross-Categorization
+bridge stan,BridgeStan
+github lace,<open:https://github.com/promised-ai/lace/>
+open github lace,<open:https://github.com/promised-ai/lace/>
+open pymc,<open:https://www.pymc.io/welcome.html>
+open stan mc,<open:https://mc-stan.org/>
+github rethinking,<open:https://github.com/rmcelreath/rethinking>
+open github rethinking,<open:https://github.com/rmcelreath/rethinking>
