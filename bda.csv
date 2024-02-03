@@ -39,7 +39,7 @@ expand LMM,Linear Mixed Models
 expand LKJ,LKJ Distribution
 expand LLGI,log-likelihood Gain on the Intensities
 expand LOO,Leave-One-Out
-expand MALA}{Metropolis adjusted Langevin algorithms
+expand MALA,Metropolis adjusted Langevin algorithms
 expand MAP,Maximum a posterior
 expand MAXS,Medium Angle X-ray Scattering
 expand MCEM,Monte Carlo Expectation Maximization
