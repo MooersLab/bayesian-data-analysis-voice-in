@@ -53,13 +53,13 @@ expand NB1,negative binomial model 1
 expand NB2,negative binomial model 2
 expand NIMBLE,Numerical Inference Models Bayesian Likelihood Estimation
 expand NUTS,No U-Turn Sampler
-expand OBsMD,OBsMD,Objective Bayesian Model Discrimination
+expand OBsMD,Objective Bayesian Model Discrimination
 expand ODBC,Open Database Connectivity
 expand OLS,Ordinary Least Squares
 expand OMD,Objective Model Descrimination
 expand PB,Plackett and Burman design
 expand PDF,Probability Density Function
-pMCMC,particle MCMC
+expand pMCMC,particle MCMC
 expand pcc,Probabilistic Cross-Categorization
 expand PPC,Posterior Predictive Checking
 expand RDBMS,relational database management system
