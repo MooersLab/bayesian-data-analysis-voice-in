@@ -70,7 +70,7 @@ expand RSM,Response Surface Methods
 expand SOAP,SOAP}{Simple Object Access Processing
 expand SEM,Structural Equation Modeling
 expand SLURM,Simple Linux Utility for Resource Management
-expand SMvSparse Matrix Sampling
+expand SMS,Sparse Matrix Sampling
 expand SQL,Structured query language
 expand ML,Unified Modeling Language
 expand VGAM,Vector Generalizer Additive Model
