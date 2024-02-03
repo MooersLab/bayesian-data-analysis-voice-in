@@ -1,4 +1,86 @@
+expand ADVI,Automatic Differentiation Variational Inference
+expand AIC,Akaile Information Criterion
+expand BDA,Bayesian Data Analysis
+expand BEST,Bayesian Estimation Supercedes the T-test
+expand BIC,Bayesian Information Criterion
+expand BN,Bayesian Network
+expand BP,Belief Propagation
+expand BUGS,Bayesian inference Using Gibbs Sampling
+expand CRI,Credible Interval
+expand DBN,Dynamic Bayesian Network
+expand DIC,Deviance Information Criterion
+expand DOE,Design of Experiments
+expand EAP,Expected a posterior
+expand eLLGI,estimated Log-likelihood Gain on the Intensities
+expand EM,Expectation Maximization
+expand GAM,Generalized Additive Models
+expand GEE,Generalized Esimating Equations
+expand GLM,General Linear Models
+expand GLMM,General Linear Mixed Models
+expand GMRF,Gaussian Markov Random Field
+expand GMM,Generalized Methods of Moments
+expand GP,Gaussian Processes
+expand HM,Hierarchical Model
+expand HMC,Hamiltonian Monte Carlo or Hybrid MC
+expand HMM,Hidden Markov Model
+expand HPDI,Highest Posterior Density Interval
+expand IFE,Incomplete Factorial Experiments
+expand IMSE,Integrated Mean Squared Error
+expand INLA,Integrated Nested Laplace Approximation
+expand IW,Inverse Wishart distribution
+expand IRLS,Iterative Re-Weighted Least-Squares
+expand IWLS,Iterative Weighted Least-Squares
+expand JAGS,Just Another Gibbs Sampler
+expand LASSO,least absobute shrinkage and selection operator
+expand L-BFGS,limited-memory Broyden-Fletcher-Goldfarb-Shanno optimizer
+expand LM-BFGS,limited-memory Broyden-Fletcher-Goldfarb-Shanno optimizer
+expand LM,Linear Models
+expand LMM,Linear Mixed Models
+expand LKJ,LKJ Distribution
+expand LLGI,log-likelihood Gain on the Intensities
+expand LOO,Leave-One-Out
+expand MALA}{Metropolis adjusted Langevin algorithms
+expand MAP,Maximum a posterior
+expand MAXS,Medium Angle X-ray Scattering
+expand MCEM,Monte Carlo Expectation Maximization
+expand MCMC,Markov Chain Monte Carlo
+expand ML,Maximum Likelihood
+expand MLE,Maximum Likelihood Estimate
+expand MRF,Markov Random Field
+expand MLIRT,multilevel item response theory
+expand NB,negative binomial
+expand NB1,negative binomial model 1
+expand NB2,negative binomial model 2
+expand NIMBLE,Numerical Inference Models Bayesian Likelihood Estimation
+expand NUTS,No U-Turn Sampler
+expand OBsMD,OBsMD,Objective Bayesian Model Discrimination
+expand ODBC,Open Database Connectivity
+expand OLS,Ordinary Least Squares
+expand OMD,Objective Model Descrimination
+expand PB,Plackett and Burman design
+expand PDF,Probability Density Function
+pMCMC,particle MCMC
 expand pcc,Probabilistic Cross-Categorization
+expand PPC,Posterior Predictive Checking
+expand RDBMS,relational database management system
+expand REST,Representational State Transfer
+expand RMHMC,Riemannian manifold Hamiltonian Monte Carlo
+expand RJ-MCMC,Reverse Jump-MCMC
+expand RSM,Response Surface Methods
+expand SOAP,SOAP}{Simple Object Access Processing
+expand SEM,Structural Equation Modeling
+expand SLURM,Simple Linux Utility for Resource Management
+expand SMvSparse Matrix Sampling
+expand SQL,Structured query language
+expand ML,Unified Modeling Language
+expand VGAM,Vector Generalizer Additive Model
+expand VGLM,Vector Generalizer Lienar Model
+expand AIC,Watanabe-Akaile Information Criterion
+expand XML,Extensible Markup Language
+expand ZIP,Zero-Inflated Negative Binomial distribution
+expand ZIP,Zero-Inflated Poisson distribution
+expand ZTNB,Zero-Truncated Negative Binomial distribution
+expand ZTP,Zero-Truncated Poisson distribution
 bridge stan,BridgeStan
 github lace,<open:https://github.com/promised-ai/lace/>
 open github lace,<open:https://github.com/promised-ai/lace/>
