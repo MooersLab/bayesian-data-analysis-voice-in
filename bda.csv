@@ -62,12 +62,13 @@ expand PDF,Probability Density Function
 expand pMCMC,particle MCMC
 expand pcc,Probabilistic Cross-Categorization
 expand PPC,Posterior Predictive Checking
-expand RDBMS,relational database management system
+expand PPL,Probabilistic Programming Languages 
+expand RDBMS,Relational Database Management System
 expand REST,Representational State Transfer
 expand RMHMC,Riemannian manifold Hamiltonian Monte Carlo
 expand RJ-MCMC,Reverse Jump-MCMC
 expand RSM,Response Surface Methods
-expand SOAP,SOAP}{Simple Object Access Processing
+expand SOAP,Simple Object Access Processing
 expand SEM,Structural Equation Modeling
 expand SLURM,Simple Linux Utility for Resource Management
 expand SMS,Sparse Matrix Sampling
