@@ -20,6 +20,7 @@ expand GLMM,General Linear Mixed Models
 expand GMRF,Gaussian Markov Random Field
 expand GMM,Generalized Methods of Moments
 expand GP,Gaussian Processes
+expand GPR,Gaussian Process Regression
 expand HM,Hierarchical Model
 expand HMC,Hamiltonian Monte Carlo or Hybrid MC
 expand HMM,Hidden Markov Model
