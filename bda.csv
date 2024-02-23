@@ -2,6 +2,7 @@ expand ADVI,Automatic Differentiation Variational Inference
 expand AIC,Akaile Information Criterion
 expand AIS,adaptive importance sampling
 expand AMCI,Amortized Monte Carlo Integration
+expand ANN,artifical neural network
 expand ANN-DOE,artifical neural network design of experiments
 expand BBD,Box-Behnken design
 expand BDA,Bayesian Data Analysis
@@ -19,7 +20,9 @@ expand DQMC,Determinant Quantum Monte Carlo
 expand DBN,Dynamic Bayesian Network
 expand DIC,Deviance Information Criterion
 expand DOE,Design of Experiments
+expand DTL cycle,"design, test, and learn cycle"
 expand EAP,Expected a posterior
+expand EIG,Expected Information Gain
 expand EHVI,expected hypervolume improvement
 expand eLLGI,estimated Log-likelihood Gain on the Intensities
 expand EM,Expectation Maximization
@@ -31,8 +34,10 @@ expand GMRF,Gaussian Markov Random Field
 expand GMM,Generalized Methods of Moments
 expand GP,Gaussian Processes
 expand GPR,Gaussian Process Regression
-expand GTI,generalized thermodynamic integration 
+expand GTI,generalized thermodynamic integration
+expand HDMR,High Dimensional Model Representation
 expand HM,Hierarchical Model
+expand HM,harmonic mean
 expand HMC,Hamiltonian Monte Carlo or Hybrid MC
 expand HMM,Hidden Markov Model
 expand HPDI,Highest Posterior Density Interval
@@ -44,57 +49,80 @@ expand IRLS,Iterative Re-Weighted Least-Squares
 expand IS,importance sampling
 expand IWLS,Iterative Weighted Least-Squares
 expand JAGS,Just Another Gibbs Sampler
+expand KDE,kernal density estimation
 expand LASSO,least absobute shrinkage and selection operator
 expand LHS,Latin hypercube sampling
 expand L-BFGS,limited-memory Broyden-Fletcher-Goldfarb-Shanno optimizer
+expand LHD,Latin HyperCube Design
 expand LM-BFGS,limited-memory Broyden-Fletcher-Goldfarb-Shanno optimizer
 expand LM,Linear Models
 expand LMM,Linear Mixed Models
 expand LKJ,LKJ Distribution
 expand LLGI,log-likelihood Gain on the Intensities
 expand LOO,Leave-One-Out
+expand LSTM,Long-Short-Term-Memory
 expand MALA,Metropolis adjusted Langevin algorithms
-expand MAP,Maximum a posterior
+expand MAP,Maximum aposterior
+expand MaxMinDist sampler,Maximized Minimal Distance Sampler
 expand MAXS,Medium Angle X-ray Scattering
 expand MCEM,Monte Carlo Expectation Maximization
 expand MCMC,Markov Chain Monte Carlo
+expand MH,Metropolis-Hastings
 expand ML,Maximum Likelihood
 expand MLE,Maximum Likelihood Estimate
 expand MRF,Markov Random Field
 expand MLIRT,multilevel item response theory
 expand MOO,Multiobjective Optimization
+expand MUM-PCE,Method of Uncertainty Minimization using Polynomial Chaos
 expand NB,negative binomial
 expand NB1,negative binomial model 1
 expand NB2,negative binomial model 2
 expand NIMBLE,Numerical Inference Models Bayesian Likelihood Estimation
+exapnd NN,neural networks
 expand NN-RS,neural network response surfaces
 expand NUTS,No U-Turn Sampler
 expand OBsMD,Objective Bayesian Model Discrimination
 expand ODBC,Open Database Connectivity
+expand ODE,ordinary differential equations
+expand OFAT,one-factor-at-a-time
 expand OLS,Ordinary Least Squares
 expand OMD,Objective Model Descrimination
 expand PB,Plackett and Burman design
 expand PDF,Probability Density Function
 expand pMCMC,particle MCMC
 expand pcc,Probabilistic Cross-Categorization
+expand PINNS,Physics Informed Neural Networks
 expand PPC,Posterior Predictive Checking
-expand PPL,Probabilistic Programming Languages 
+expand PPL,Probabilistic Programming Languages
+expand PP,power posteriors
+expand PS,path sampling
+expand QMC,Quasi-Monte Carlo
+expand QML,quantum machine learning
+expand QSSA,quasi-steady-state assumption
 expand RDBMS,Relational Database Management System
+expand ReLU,rectified linear unit
 expand REST,Representational State Transfer
 expand RMSE,root-mean-square error 
 expand RMHMC,Riemannian manifold Hamiltonian Monte Carlo
+expand RNN,recurrent neural network
+expand RIS,Reverse Importance Sampling
 expand RJ-MCMC,Reverse Jump-MCMC
+expand RQMC,Randomized Quasi-Monte Carlo
 expand RSM,Response Surface Methods
+expand SIAM,Soceity for Industrial and Applied Mathematics
 expand SMC,sequential Monte Carlo
 expand SOAP,Simple Object Access Processing
 expand SEM,Structural Equation Modeling
 expand SG-MCMC,Stochastic gradient Markov chain Monte Carlo
+expand SLS,standard least squares
 expand SLURM,Simple Linux Utility for Resource Management
 expand SMS,Sparse Matrix Sampling
 expand SQL,Structured query language
 expand TABI,target-aware Bayesian inference
 expand TI,thermodynamic integration
+expand UM,uncertainty minimization
 expand UML,Unified Modeling Language
+expand UQ,uncertainty quantification
 expand VGAM,Vector Generalizer Additive Model
 expand VGLM,Vector Generalizer Lienar Model
 expand AIC,Watanabe-Akaile Information Criterion
