@@ -96,6 +96,7 @@ expand PPC,Posterior Predictive Checking
 expand PPL,Probabilistic Programming Languages
 expand PP,power posteriors
 expand PS,path sampling
+expand PSIS-LOO-CV,Pareto-smoothed importance sampling leave-one-out cross-validation
 expand QMC,Quasi-Monte Carlo
 expand QML,quantum machine learning
 expand QSSA,quasi-steady-state assumption
