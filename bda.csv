@@ -124,6 +124,7 @@ expand TI,thermodynamic integration
 expand UM,uncertainty minimization
 expand UML,Unified Modeling Language
 expand UQ,uncertainty quantification
+expand WAIC,widely applicable information criterion
 expand VGAM,Vector Generalizer Additive Model
 expand VGLM,Vector Generalizer Lienar Model
 expand AIC,Watanabe-Akaile Information Criterion
