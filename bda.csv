@@ -134,6 +134,7 @@ expand ZIP,Zero-Inflated Poisson distribution
 expand ZTNB,Zero-Truncated Negative Binomial distribution
 expand ZTP,Zero-Truncated Poisson distribution
 bridge stan,BridgeStan
+nut pie,nutpy
 github lace,<open:https://github.com/promised-ai/lace/>
 open github lace,<open:https://github.com/promised-ai/lace/>
 open pymc,<open:https://www.pymc.io/welcome.html>
