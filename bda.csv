@@ -78,7 +78,7 @@ expand NB,negative binomial
 expand NB1,negative binomial model 1
 expand NB2,negative binomial model 2
 expand NIMBLE,Numerical Inference Models Bayesian Likelihood Estimation
-exapnd NN,neural networks
+expand NN,neural networks
 expand NN-RS,neural network response surfaces
 expand NUTS,No U-Turn Sampler
 expand OBsMD,Objective Bayesian Model Discrimination
@@ -135,9 +135,16 @@ expand ZTNB,Zero-Truncated Negative Binomial distribution
 expand ZTP,Zero-Truncated Poisson distribution
 bridge stan,BridgeStan
 nut pie,nutpy
-github lace,<open:https://github.com/promised-ai/lace/>
+open bridge stan,<open:https://github.com/roualdes/bridgestan>
+open bridge stan documetation,<open:https://roualdes.github.io/bridgestan/latest/>
+open JASP,<open:https://jasp-stats.org>
+open JASP download,<open:https://jasp-stats.org/download/>
+open lace github,<open:https://github.com/promised-ai/lace/>
 open github lace,<open:https://github.com/promised-ai/lace/>
 open pymc,<open:https://www.pymc.io/welcome.html>
+open rethinking,<open:https://github.com/rmcelreath/rethinking>
+open rethinking github,<open:https://github.com/rmcelreath/rethinking>
 open stan mc,<open:https://mc-stan.org/>
-github rethinking,<open:https://github.com/rmcelreath/rethinking>
-open github rethinking,<open:https://github.com/rmcelreath/rethinking>
+open stan users guide,<open:https://mc-stan.org/docs/stan-users-guide/index.html>
+open stan reference manual,<open:https://mc-stan.org/docs/reference-manual/>
+
