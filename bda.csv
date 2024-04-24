@@ -1,5 +1,7 @@
+expand ACE,Approximate Coordinate Exchange
 expand ADVI,Automatic Differentiation Variational Inference
 expand AIC,Akaile Information Criterion
+expand AICc,Akaile Information Criterion corrected for small sample size10!
 expand AIS,adaptive importance sampling
 expand AMCI,Amortized Monte Carlo Integration
 expand ANN,artifical neural network
@@ -28,7 +30,7 @@ expand eLLGI,estimated Log-likelihood Gain on the Intensities
 expand EM,Expectation Maximization
 expand GAM,Generalized Additive Models
 expand GEE,Generalized Esimating Equations
-expand GLM,General Linear Models
+expand GLMs10,General Linear Models
 expand GLMM,General Linear Mixed Models
 expand GMRF,Gaussian Markov Random Field
 expand GMM,Generalized Methods of Moments
