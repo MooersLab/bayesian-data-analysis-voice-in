@@ -21,11 +21,13 @@ expand CRI,Credible Interval
 expand DQMC,Determinant Quantum Monte Carlo
 expand DBN,Dynamic Bayesian Network
 expand DIC,Deviance Information Criterion
+expand DLGM,Deep Latent Gaussian Model
 expand DOE,Design of Experiments
 expand DTL cycle,"design, test, and learn cycle"
 expand EAP,Expected a posterior
 expand EIG,Expected Information Gain
 expand EHVI,expected hypervolume improvement
+expand ELBO,Evidence Lower Bound
 expand eLLGI,estimated Log-likelihood Gain on the Intensities
 expand EM,Expectation Maximization
 expand GAM,Generalized Additive Models
@@ -46,12 +48,14 @@ expand HPDI,Highest Posterior Density Interval
 expand IFE,Incomplete Factorial Experiments
 expand IMSE,Integrated Mean Squared Error
 expand INLA,Integrated Nested Laplace Approximation
+expand IAF,Inverse Autoregressive Flows
 expand IW,Inverse Wishart distribution
 expand IRLS,Iterative Re-Weighted Least-Squares
 expand IS,importance sampling
 expand IWLS,Iterative Weighted Least-Squares
 expand JAGS,Just Another Gibbs Sampler
 expand KDE,kernal density estimation
+expand KL,Kullback-Leibler
 expand LASSO,least absobute shrinkage and selection operator
 expand LHS,Latin hypercube sampling
 expand L-BFGS,limited-memory Broyden-Fletcher-Goldfarb-Shanno optimizer
@@ -79,6 +83,7 @@ expand MUM-PCE,Method of Uncertainty Minimization using Polynomial Chaos
 expand NB,negative binomial
 expand NB1,negative binomial model 1
 expand NB2,negative binomial model 2
+expand NeuTra HMC,Neural Transport HMC
 expand NIMBLE,Numerical Inference Models Bayesian Likelihood Estimation
 expand NN,neural networks
 expand NN-RS,neural network response surfaces
@@ -127,6 +132,7 @@ expand UM,uncertainty minimization
 expand UML,Unified Modeling Language
 expand UQ,uncertainty quantification
 expand WAIC,widely applicable information criterion
+expand VAEs,Variational Autoencoders
 expand VGAM,Vector Generalizer Additive Model
 expand VGLM,Vector Generalizer Lienar Model
 expand AIC,Watanabe-Akaile Information Criterion
@@ -138,7 +144,7 @@ expand ZTP,Zero-Truncated Poisson distribution
 bridge stan,BridgeStan
 nut pie,nutpy
 open bridge stan,<open:https://github.com/roualdes/bridgestan>
-open bridge stan documetation,<open:https://roualdes.github.io/bridgestan/latest/>
+open bridge stan documentation,<open:https://roualdes.github.io/bridgestan/latest/>
 open JASP,<open:https://jasp-stats.org>
 open JASP download,<open:https://jasp-stats.org/download/>
 open lace github,<open:https://github.com/promised-ai/lace/>
