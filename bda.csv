@@ -144,6 +144,7 @@ expand ZTNB,Zero-Truncated Negative Binomial distribution
 expand ZTP,Zero-Truncated Poisson distribution
 bridge stan,BridgeStan
 nut pie,nutpy
+open bayesian modeling and computation in Python,<open:https://bayesiancomputationbook.com/welcome.html>
 open bridge stan,<open:https://github.com/roualdes/bridgestan>
 open bridge stan documentation,<open:https://roualdes.github.io/bridgestan/latest/>
 open JASP,<open:https://jasp-stats.org>
@@ -156,4 +157,6 @@ open rethinking github,<open:https://github.com/rmcelreath/rethinking>
 open stan mc,<open:https://mc-stan.org/>
 open stan users guide,<open:https://mc-stan.org/docs/stan-users-guide/index.html>
 open stan reference manual,<open:https://mc-stan.org/docs/reference-manual/>
+open statistical thinking for the 21st century,<open:https://statsthinking21.org/>
+open surrogate modeling,<open:https://bobby.gramacy.com/surrogates/>
 
