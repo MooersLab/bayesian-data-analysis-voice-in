@@ -57,6 +57,8 @@ Ready to use but still under development.
 |Version      | Changes                                         | Date            |
 |:-----------:|:-----------------------------------------------:|:---------------:|
 | Version 0.2 |  Fixed typos in README.md                       | 2024 April 10    |
+| Version 0.3 |  Updated the README.md. Added some terms to the csv file.  | 2024 Juen 4    |
+
 
 
 ## Sources of funding
