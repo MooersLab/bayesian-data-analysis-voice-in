@@ -42,12 +42,12 @@ If you pick a word combination with a subset of words already assigned to anothe
 It is better to pick a synonym for the new command than include the old one.
 
 ### Use verbs are prefaces
-- I use the verb `insert` in front of the name for the computer code I want to insert.
-- I use the verb `expand` to expand acronyms.
-- I use `url` to insert a URL.
-- I use `open` to open a specific website.
-- I use `display` for equations in the display mode.
-- I use `inline` for inline equations in sentences.
+- `insert` before name for the computer code to insert.
+- `expand` to expand acronyms.
+- `url` to insert a URL.
+- `open` to open a specific website.
+- `display` for equations in the display mode.
+- `inline` for inline equations in sentences.
 
 ## Status
 Ready to use but still under development.
