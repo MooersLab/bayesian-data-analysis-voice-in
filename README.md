@@ -4,13 +4,13 @@
 # Voice In commands related to Bayesian Data Analysis
 
 ## Introduction
-This repo contains voice commands about Bayesian Data Analysis (BDA) for the speech recognition software Voice In Plus.
+This repo contains voice commands about Bayesian Data Analysis (BDA) for the automated speech recognition (ASR) software Voice In Plus.
 The utilization of these custom commands requires a subscription to Voice In Plus.
-These commands can be used in the text area of most websites opened in Google Chrome.
+These commands can be used in the text area of most websites opened in Google Chrome or Microsoft Edge.
 
 They can be used during the dictation of manuscripts about Bayesian data analysis.
 Some of the commands include equations that are represented as LaTeX math.
-These short snippets of LaTeX are recognized and rendered correctly by most markdown typesetting languages, including org-mode, an enhanced form of Markdown best used from inside of Emacs.
+These short snippets of LaTeX are recognized and rendered correctly by most typesetting languages, including org-mode, an enhanced form of Markdown best used inside of Emacs but available in VS Code and elsewhere.
 
 ## Usage
 You can use the commands right away after they have been uploaded.
@@ -22,13 +22,13 @@ See the Voice In plug-in documentation to learn how to configure keyboard shortc
 Each command is paired with the inserted text on a single line in a comma-separated value file (**bda.csv**).
 Use the **bulk add** button in Voice In Plus to upload these commands into your collection of custom commands.
 
-## Contents of the library ai.csv
-
+## Planned content of the library bda.csv
+- Acronyms and their expansions
 - Key equations typeset in LaTeX.
 - URLs of critical websites.
 - Names of key people in the field to ensure the correct spelling of their names.
 
-## Related repos
+## Related repositories
 See [Voice Computing section of landing page](https://github.com/MooersLab/MooersLab?tab=readme-ov-file#voice-computing)
 
 ## Rules for developing voice commands
@@ -45,6 +45,9 @@ It is better to pick a synonym for the new command than include the old one.
 I use the verb `insert` in front of the name for the computer code or equation that I want to insert.
 I use the verb `expand` to expand acronyms.
 I use `url` to insert a URL.
+I use `open` to open a specific website.
+I use `display` for equations in the display mode.
+I use `inline` for inline equations in sentences.
 
 ## Status
 Ready to use but still under development.
