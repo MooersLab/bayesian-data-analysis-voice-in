@@ -52,6 +52,7 @@ expand IAF,Inverse Autoregressive Flows
 expand IW,Inverse Wishart distribution
 expand IRLS,Iterative Re-Weighted Least-Squares
 expand IS,importance sampling
+expand ISBA,International Society for Bayesian Analysis
 expand IWLS,Iterative Weighted Least-Squares
 expand JAGS,Just Another Gibbs Sampler
 expand KDE,kernal density estimation
@@ -100,7 +101,7 @@ expand pMCMC,particle MCMC
 expand pcc,Probabilistic Cross-Categorization
 expand PINNS,Physics Informed Neural Networks
 expand PPC,Posterior Predictive Checking
-expand PPL,Probabilistic Programming Languages
+expand PPL,Probabilistic Programming Language
 expand PP,power posteriors
 expand PS,path sampling
 expand PSIS-LOO-CV,Pareto-smoothed importance sampling leave-one-out cross-validation
